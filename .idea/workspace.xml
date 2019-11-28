@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a249a3a-01d3-479b-9478-0ba4b04cdbcd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
+  <component name="ProjectId" id="1SLF7B3OZn9IwKtqo9mS1hylzfk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PhpstormProjects\pharmacy1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="cart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pharmacy1/cart.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pharmacy1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="order.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pharmacy1/order.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="prescription.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pharmacy1/prescription.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="sumotriptan.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pharmacy1/sumotriptan.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="listing.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/listing.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.sumotriptan.html" />
+        <item itemvalue="JavaScript Debug.cart.html" />
+        <item itemvalue="JavaScript Debug.order.html" />
+        <item itemvalue="JavaScript Debug.prescription.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a249a3a-01d3-479b-9478-0ba4b04cdbcd" name="Default Changelist" comment="" />
+      <created>1571334798709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571334798709</updated>
+      <workItem from="1571334799956" duration="1860000" />
+      <workItem from="1571336872045" duration="1834000" />
+      <workItem from="1571338744330" duration="1797000" />
+      <workItem from="1571341356581" duration="1076000" />
+      <workItem from="1571343754730" duration="480000" />
+      <workItem from="1571354030688" duration="1534000" />
+      <workItem from="1571355901000" duration="1239000" />
+      <workItem from="1571440801584" duration="699000" />
+      <workItem from="1571765228220" duration="1781000" />
+      <workItem from="1571767047005" duration="1017000" />
+      <workItem from="1571771485257" duration="1451000" />
+      <workItem from="1571809867749" duration="992000" />
+      <workItem from="1572471652287" duration="15000" />
+      <workItem from="1572587967471" duration="856000" />
+      <workItem from="1572588983020" duration="782000" />
+      <workItem from="1572591206542" duration="277000" />
+      <workItem from="1572632781789" duration="1675000" />
+      <workItem from="1572637026480" duration="1075000" />
+      <workItem from="1572638914600" duration="1705000" />
+      <workItem from="1572640737264" duration="1828000" />
+      <workItem from="1572642610306" duration="1780000" />
+      <workItem from="1572644474564" duration="2102000" />
+      <workItem from="1572647335987" duration="1659000" />
+      <workItem from="1572649242711" duration="1092000" />
+      <workItem from="1572651557939" duration="1774000" />
+      <workItem from="1572656820352" duration="1556000" />
+      <workItem from="1572658645965" duration="1541000" />
+      <workItem from="1572721648906" duration="600000" />
+      <workItem from="1572726362546" duration="540000" />
+      <workItem from="1572740434414" duration="157000" />
+      <workItem from="1572756395547" duration="1794000" />
+      <workItem from="1572758751882" duration="1416000" />
+      <workItem from="1572760944864" duration="1788000" />
+      <workItem from="1572762829465" duration="477000" />
+      <workItem from="1572801780359" duration="1781000" />
+      <workItem from="1572803631320" duration="1782000" />
+      <workItem from="1572805524779" duration="1853000" />
+      <workItem from="1572807407405" duration="1120000" />
+      <workItem from="1572816564706" duration="1863000" />
+      <workItem from="1572818478823" duration="1784000" />
+      <workItem from="1572844191398" duration="1630000" />
+      <workItem from="1572910916904" duration="227000" />
+      <workItem from="1572915179887" duration="929000" />
+      <workItem from="1572919108420" duration="1781000" />
+      <workItem from="1572921006554" duration="1783000" />
+      <workItem from="1572922855833" duration="1780000" />
+      <workItem from="1572924718861" duration="1789000" />
+      <workItem from="1572926701932" duration="1782000" />
+      <workItem from="1572928521899" duration="1781000" />
+      <workItem from="1572930374748" duration="1506000" />
+      <workItem from="1572932282425" duration="1370000" />
+      <workItem from="1572975786065" duration="265000" />
+      <workItem from="1572976937458" duration="211000" />
+      <workItem from="1572982657972" duration="1071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
