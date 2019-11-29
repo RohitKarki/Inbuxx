@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Pharma &mdash; Colorlib Template</title>
+  <title>inbuxx</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -92,7 +92,7 @@
 
 
 
-    <div class="site-section bg-primary">
+    <div class="site-section ">
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -100,20 +100,20 @@
           </div>
           <div class="col-lg-4">
             <div class="p-4 bg-white mb-3 rounded">
-              <span class="d-block text-black h6 text-uppercase">New York</span>
-              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, USA</p>
+              <span class="d-block text-black h6 text-uppercase">KATHMANDU</span>
+              <p class="mb-0">Hattisar,Kamaladi, Nepal</p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="p-4 bg-white mb-3 rounded">
-              <span class="d-block text-black h6 text-uppercase">London</span>
-              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, USA</p>
+              <span class="d-block text-black h6 text-uppercase">JHAPA</span>
+              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, Nepal</p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="p-4 bg-white mb-3 rounded">
-              <span class="d-block text-black h6 text-uppercase">Canada</span>
-              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, USA</p>
+              <span class="d-block text-black h6 text-uppercase">BUTWAL</span>
+              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, Nepal</p>
             </div>
           </div>
         </div>
