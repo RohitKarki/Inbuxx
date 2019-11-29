@@ -74,7 +74,7 @@
                 </li>-->
                 <li><a href="support.php">Support</a></li>
                 <li><a href="contact.php">Contact</a></li>
-                <li><a href="Login/login.php" class=""><i class="icon-user" style="color: green; font-size:25px;"></i> <i style="font-size:25px; font-style:"> &nbsp; LOG IN </i></a></li>
+                <li><a href="login.php" class=""><i class="icon-user" style="color: green; font-size:25px;"></i> <i style="font-size:25px; font-style:"> &nbsp; LOG IN </i></a></li>
               </ul>
             </nav>
           </div>
