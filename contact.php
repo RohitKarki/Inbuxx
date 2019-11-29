@@ -96,7 +96,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <h2 class="text-white mb-4">Offices</h2>
+            <h2 class="text-black mb-4">Offices</h2>
           </div>
           <div class="col-lg-4">
             <div class="p-4 bg-white mb-3 rounded">
@@ -107,13 +107,13 @@
           <div class="col-lg-4">
             <div class="p-4 bg-white mb-3 rounded">
               <span class="d-block text-black h6 text-uppercase">JHAPA</span>
-              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, Nepal</p>
+              <p class="mb-0">damak, Nepal</p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="p-4 bg-white mb-3 rounded">
               <span class="d-block text-black h6 text-uppercase">BUTWAL</span>
-              <p class="mb-0">203 Fake St. Mountain View, San Francisco, California, Nepal</p>
+              <p class="mb-0">butwal, Nepal</p>
             </div>
           </div>
         </div>
