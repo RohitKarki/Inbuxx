@@ -23,7 +23,6 @@
 </head>
 
 <body>
-
   <div class="site-wrap">
 
 
@@ -35,12 +34,12 @@
               <a href="index.php"  style="padding-left: -10px;"><img src="images/logo.ico" alt="Image"></a>
             </div>
           </div>
-          <div class="main-nav d-none d-lg-block">
+          <div class="main-nav d-none d-lg-block" >
             <nav class="site-navigation text-right text-md-center" role="navigation" style="margin-left: 60px;">
-              <ul class="site-menu js-clone-nav d-none d-lg-block font-weight-bold">
-                <li class="active"><a href="index.php">Home</a></li>
-                <li><a href="aboutus.php">About</a></li>
-                <li><a href="categories.php">Categories</a></li>
+              <ul class="site-menu js-clone-nav d-none d-lg-block font-weight-bold" id="myDIV">
+                <li class="underline active"><a href="index.php">Home</a></li>
+                <li class="underline"><a href="aboutus.php">About</a></li>
+                <li class="underline"><a href="categories.php">Categories</a></li>
                 <!--<li class="has-children">
                   <a href="#">Categories</a>
                   <ul class="dropdown">
@@ -72,15 +71,15 @@
                     
                   </ul>
                 </li>-->
-                <li><a href="support.php">Support</a></li>
-                <li><a href="contact.php">Contact</a></li>
-                <li><a href="login.php" class=""><i class="icon-user" style="color: green; font-size:25px;"></i> <i style="font-size:25px; font-style:"> &nbsp; LOG IN </i></a></li>
+                <li class="underline"><a href="support.php">Support</a></li>
+                <li class="underline"><a href="contact.php">Contact</a></li>
+                <li class="underline"><a href="login.php"><i class="icon-user" style="color: green; font-size:25px;"></i> <i style="font-size:25px; font-style:"> &nbsp; LOG IN </i></a></li>
               </ul>
             </nav>
           </div>
           <div class="btn" style="margin-left: auto; margin-right: auto; padding: 0.375rem; padding-right: 0.1px;">
              
-            <a href="addpostform/addpostform.html" class="btn btn-outline-secondary btn-sm ml-2" style="font-size: 0.7rem;padding: 0.25rem 0.2 rem;">POST YOUR ADD</a>
+            <a href="postyouradd.php" class="btn btn-outline-secondary btn-sm ml-2" style="font-size: 0.7rem;padding: 0.25rem 0.2 rem;">POST YOUR ADD</a>
             <a href="#" class="site-menu-toggle js-menu-toggle ml-1 d-inline-block d-lg-none"><span
                 class="icon-menu"></span></a>
           </div>
@@ -88,3 +87,17 @@
         </div>
       </div>
     </div>
+    <script>
+      // Add active class to the current button (highlight it)
+      var header = document.getElementById("myDIV");
+      var btns = header.getElementsByClassName("btn");
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function() {
+        var current = document.getElementsByClassName("active");
+        if (current.length > 0) { 
+          current[0].className = current[0].className.replace(" active", "");
+        }
+        this.className += " active";
+        });
+      }
+    </script>
