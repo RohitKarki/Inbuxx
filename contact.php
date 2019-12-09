@@ -79,7 +79,7 @@
                 </div>
                 <div class="form-group row">
                   <div class="col-lg-12">
-                    <input type="submit" class="btn btn-primary btn-lg btn-block" value="Send Message">
+                    <input type="submit" class="btn btn-primary btn-dark btn-block" value="Send Message" style="height: 120%; width: 100%">
                   </div>
                 </div>
               </div>
@@ -92,7 +92,7 @@
 
 
 
-    <div class="site-section bg-primary">
+    <div class="site-section" style="background-color: #343a40;">
       <div class="container">
         <div class="row">
           <div class="col-12">

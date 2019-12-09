@@ -28,7 +28,7 @@
             <div class="block-5 mb-5" style="text-color=white">
               <h3 class="footer-heading mb-4" style="color:white">Contact Info</h3>
               <ul class="list-unstyled">
-                <li class="address">Kathmandu,Nepal</li>
+                <li class="address" >Kathmandu,Nepal</li>
                 <li class="phone">9808195162</li>
                 <li class="email">easymedication@gmail.com</li>
               </ul>
@@ -37,10 +37,10 @@
 
           </div>
         </div>
-        <div class="row pt-5 mt-5 text-center">
+        <div class="row mt-5 text-center">
           <div class="col-md-12">
-            <p>
-              <script>document.write(new Date().getFullYear());</script> All rights reserved | Developed By by Inbuxx</p>
+            <p style="    text-align: left!important; font-style: italic;">
+              <script>document.write(new Date().getFullYear());</script> All rights reserved | Developed By Inbuxx</p>
           </div>
 
         </div>

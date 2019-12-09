@@ -1,6 +1,6 @@
     <?php include('header.php'); ?>
   
-    <div class="site-blocks-cover" style="background-image: url('images/22.jpg');">
+    <div class="site-blocks-center" style="background-image: url('images/22.jpg');">
       <div class="container">
         <div class="row">
           <div class="col-lg-7 mx-auto order-lg-2 align-self-center">
@@ -61,7 +61,7 @@
         </div>
         <div class="row mt-5">
           <div class="col-12 text-center">
-            <a href="categories.php" class="btn btn-primary px-4 py-3">View All Products</a>
+            <a href="categories.php" class="btn btn-primary px-4 py-3 btn-dark btn-block">View All Products</a>
           </div>
         </div>
       </div>
@@ -80,27 +80,26 @@
             <div class="nonloop-block-3 owl-carousel">
 
               <div class="text-center item mb-4">
-                <a href="shop-single.html"> <img src="images/product_03.png" alt="Image"></a>
-                
-                <h3 class="text-dark"><a href="shop-single.html">Umcka Cold Care</a></h3>
+                <a href="discription.php"> <img src="images/product_03.png" alt="Image"></a>
+                <h3 class="text-dark"><a href="discription.php">Umcka Cold Care</a></h3>
                 <p class="price">Rs120.00</p>
               </div>
 
               <div class="text-center item mb-4">
-                <a href="shop-single.html"> <img src="images/product_01.png" alt="Image"></a>
-                <h3 class="text-dark"><a href="shop-single.html">Umcka Cold Care</a></h3>
+                <a href="discription.php"> <img src="images/product_01.png" alt="Image"></a>
+                <h3 class="text-dark"><a href="discription.php">Umcka Cold Care</a></h3>
                 <p class="price">Rs120.00</p>
               </div>
 
               <div class="text-center item mb-4">
-                <a href="shop-single.html"> <img src="images/product_02.png" alt="Image"></a>
-                <h3 class="text-dark"><a href="shop-single.html">Umcka Cold Care</a></h3>
+                <a href="discription.php"> <img src="images/product_02.png" alt="Image"></a>
+                <h3 class="text-dark"><a href="discription.php">Umcka Cold Care</a></h3>
                 <p class="price">Rs120.00</p>
               </div>
 
               <div class="text-center item mb-4">
-                <a href="shop-single.html"> <img src="images/product_04.png" alt="Image"></a>
-                <h3 class="text-dark"><a href="shop-single.html">Umcka Cold Care</a></h3>
+                <a href="discription.php"> <img src="images/product_04.png" alt="Image"></a>
+                <h3 class="text-dark"><a href="discription.php">Umcka Cold Care</a></h3>
                 <p class="price">Rs120.00</p>
               </div>
 

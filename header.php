@@ -77,7 +77,7 @@
               </ul>
             </nav>
           </div>
-          <div class="btn" style="margin-left: auto; margin-right: auto; padding: 0.375rem; padding-right: 0.1px;">
+          <div class="btn" style="padding: 0.375rem; padding-right: 0.1px;">
              
             <a href="postyouradd.php" class="btn btn-outline-secondary btn-sm ml-2" style="font-size: 0.7rem;padding: 0.25rem 0.2 rem;">POST YOUR ADD</a>
             <a href="#" class="site-menu-toggle js-menu-toggle ml-1 d-inline-block d-lg-none"><span
