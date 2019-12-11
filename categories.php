@@ -37,36 +37,36 @@
         <div class="row">
           <div class="col-sm-6 col-lg-4 text-center item mb-4">
             <span class="tag">Sale</span>
-            <a href="shop-single.html"> <img src="images/1.jpg" alt="Image"></a>
-            <h3 class="text-dark"><a href="shop-single.html">Mac Laptop</a></h3>
+            <a href="specificCategories.php"> <img src="images/1.jpg" alt="Image"></a>
+            <h3 class="text-dark"><a href="specificCategories.php">Mac Laptop</a></h3>
             <!-- <p class="price"><del>Rs95.00</del> &mdash; Rs55.00</p> -->
           </div>
           <div class="col-sm-6 col-lg-4 text-center item mb-4">
-            <a href="shop-single.html"> <img src="images/10.jpg" alt="Image"></a>
-            <h3 class="text-dark"><a href="shop-single.html">Camera</a></h3>
+            <a href="specificCategories.php"> <img src="images/10.jpg" alt="Image"></a>
+            <h3 class="text-dark"><a href="specificCategories.php">Camera</a></h3>
             <!-- <p class="price">Rs70.00</p> -->
           </div>
           <div class="col-sm-6 col-lg-4 text-center item mb-4">
-            <a href="shop-single.html"> <img src="images/12.jpg" alt="Image"></a>
-            <h3 class="text-dark"><a href="shop-single.html">Hp pavilion</a></h3>
+            <a href="specificCategories.php"> <img src="images/12.jpg" alt="Image"></a>
+            <h3 class="text-dark"><a href="specificCategories.php">Hp pavilion</a></h3>
             <!-- <p class="price">Rs120.00</p> -->
           </div>
 
           <div class="col-sm-6 col-lg-4 text-center item mb-4">
 
-            <a href="shop-single.html"> <img src="images/2.jpg" alt="Image"></a>
-            <h3 class="text-dark"><a href="shop-single.html">guitar</a></h3>
+            <a href="specificCategories.php"> <img src="images/2.jpg" alt="Image"></a>
+            <h3 class="text-dark"><a href="specificCategories.php">guitar</a></h3>
             <!-- <p class="price"><del>45.00</del> &mdash; Rs20.00</p> -->
           </div>
           <div class="col-sm-6 col-lg-4 text-center item mb-4">
-            <a href="shop-single.html"> <img src="images/3.jpg" alt="Image"></a>
-            <h3 class="text-dark"><a href="shop-single.html">tablet</a></h3>
+            <a href="specificCategories.php"> <img src="images/3.jpg" alt="Image"></a>
+            <h3 class="text-dark"><a href="specificCategories.php">tablet</a></h3>
             <!-- <p class="price">Rs38.00</p> -->
           </div>
           <div class="col-sm-6 col-lg-4 text-center item mb-4">
             <span class="tag">Sale</span>
-            <a href="shop-single.html"> <img src="images/7.jpg" alt="Image"></a>
-            <h3 class="text-dark"><a href="shop-single.html">Poo Pourri</a></h3>
+            <a href="specificCategories.php"> <img src="images/7.jpg" alt="Image"></a>
+            <h3 class="text-dark"><a href="specificCategories.php">Poo Pourri</a></h3>
             <!-- <p class="price"><del>Rs89</del> &mdash; Rs38.00</p> -->
           </div>
         </div>
